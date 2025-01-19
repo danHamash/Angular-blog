@@ -20,7 +20,6 @@ export class ContentComponent implements OnInit {
 
 constructor(private route:ActivatedRoute){}
 
-
 ngOnInit(): void {
   this.route.paramMap.subscribe(value => {
     this.id = value.get('id');
