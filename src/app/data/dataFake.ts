@@ -33,8 +33,8 @@
   },
   {
     id: 5 ,
-    photoCover:'https://preview.redd.it/8uybz4zce2xb1.jpg?auto=webp&s=25617a88d84efc5b5e0b3e0e6e69c33fb26e137d',
-    title:'Luck Skywalker vai se aposentadoaria?',
+    photoCover:'https://s2-gshow.glbimg.com/KU62mRdrCoAdOc6-MkXe-BI7Uco=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2021/4/R/thHoLhQdCnERAUfRh6Hw/mark.jpg',
+    title:'Luck Skywalker vai se aposentadoar?',
     description: '"No dia 17 de Janeiro de 2078, Luke Skywalker fez uma declaração que surpreendeu toda a galáxia. Durante uma cerimônia especial em Coruscant, o lendário Jedi, agora com mais de 90 anos, anunciou que estava pronto para se aposentar. "Eu sempre soube que o caminho do Jedi não era eterno", disse Luke, com um sorriso nostálgico, olhando para os jovens aprendizes ao seu redor. "Mas, após tantas décadas de luta e aprendizado, acho que chegou o momento de passar o sabre de luz para os próximos." A galáxia inteira ficou em choque com a notícia, pois Luke sempre foi visto como a última esperança da Força. O Jedi, que havia enfrentado impérios, revoluções e forças obscuras, agora parecia pronto para descansar, talvez em um planeta distante, longe das batalhas que moldaram seu legado. "Estou velho demais para continuar a jornada", continuou ele. "A nova geração de Jedi está mais que pronta para seguir em frente. Meu tempo passou, mas minha fé na Força nunca se esgotou." O anúncio foi recebido com uma mistura de tristeza e respeito, mas também com gratidão por tudo o que Luke Skywalker fez pela galáxia. Enquanto ele se prepara para o que parece ser o fim de uma era, novos heróis estão prontos para carregar o manto e dar continuidade ao trabalho de proteger a paz e o equilíbrio no universo. Mas, enquanto Luke descansa, a memória de sua coragem e sabedoria viverá para sempre nas estrelas."',
     user:'By - Yoda',
     date:'- January 15, 2025',
