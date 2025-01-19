@@ -1,0 +1,16 @@
+
+hr{
+  width:990px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+.menu-title{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color:#000000;
+  letter-spacing: 2px;
+  font-size: 5rem;
+  font-family: "Pacifico", serif;
+  text-align: center;
+}

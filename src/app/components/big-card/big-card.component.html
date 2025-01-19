@@ -1,0 +1,25 @@
+
+<div class="big-card-container">
+  <div class="big-card-img">
+    <img src={{photoCover}}
+     alt="">
+  </div>
+  <div class="big-card-main">
+    <div class="big-card-user">
+      <span>{{userCreator}}</span>
+    </div>
+    <div class="big-card-date">
+      <span> {{timeOfPost}}</span>
+    </div>
+    <div class="big-card-title">
+    <a  [routerLink]="['content',id]">{{cardTitle}}</a>
+    </div>
+    <div class="big-card-description">
+      <p>
+        <a [routerLink]="['content',id]">{{cardDescription}}</a>
+      </p>
+    </div>
+  </div>
+</div>
+
+

@@ -1,0 +1,23 @@
+
+@media screen and (min-Width:320px) and (max-width:720px){
+  .menu-bar{
+    margin: 2rem 0;
+  }
+  .menu-title{
+    margin-top: 1rem;
+  }
+  .articles-others{
+    display: grid;
+    grid-template-columns: repeat(2, 120px);
+    grid-template-rows: 200px;
+    justify-content: space-evenly;
+    background-color: white;
+    margin-top: 2rem;
+    border-radius: 9px;
+  }
+  .container-articles{
+    margin-top: 3rem;
+  }
+
+
+}

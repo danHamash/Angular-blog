@@ -1,0 +1,11 @@
+
+@media screen and (min-Width:320px) and (max-width:720px){
+  .menu-title{
+    font-size: 2rem;
+    text-align: center;
+  }
+  hr{
+    width:92%;
+    margin: .5rem auto;
+  }
+}

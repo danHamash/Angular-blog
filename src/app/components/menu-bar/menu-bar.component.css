@@ -1,0 +1,28 @@
+.menu-bar-container{
+  display: flex;
+  justify-content: center;
+}
+.menu-bar-container ul{
+  display: flex;
+}
+.menu-bar-container li{
+  align-self: center;
+  list-style: none;
+  margin: 0 3rem;
+}
+.li-item-1 a{
+  font-size: 4rem !important;
+  font-weight: bold;
+  color: #DE2D10 !important;
+  border-right:1px solid #bebebe;
+  padding-right: 2rem;
+  margin-right: -1rem !important;
+  font-family: "Pacifico",sans-serif;
+}
+.menu-bar-main li a{
+  text-decoration: none;
+  color: black;
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+

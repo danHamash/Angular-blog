@@ -1,0 +1,23 @@
+
+.menu-title{
+  margin-top: 5rem;
+}
+.container-articles{
+  margin-top: 10rem;
+}
+.articles-main{
+  background-color: white;
+  border-radius: 9px;
+}
+.articles-others{
+  margin: 1rem auto;
+  padding-top:2rem ;
+  display: grid;
+  grid-template-columns: repeat(4, 200px);
+  grid-template-rows: 300px;
+  grid-gap: 50px;
+  justify-content: center;
+  background-color: white;
+  border-radius: 9px;
+
+}

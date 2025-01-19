@@ -1,0 +1,64 @@
+.content-container{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background: white;
+  padding: .2rem 2rem;
+  border-radius: 9px;
+  width: 100%;
+}
+.content-photo img{
+  border-radius: 9px;
+  background-size: cover;
+  background-position: center;
+  max-width: 600px;
+  min-width: 600px;
+  }
+.content-title h1{
+  margin: 3rem 0 0 0 ;
+  font-size: 3rem;
+  font-family: "Libre Baskerville", serif;
+  font-weight: bold;
+}
+.content-title hr {
+  margin: 0 auto;
+  margin-top: -.6rem;
+  width: 650px;
+  border-color: #e2692b;
+}
+.content-post-info{
+    display: flex;
+    flex-direction: row;
+    font-weight: 500;
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: .2rem;
+    margin-bottom: 1rem;
+}
+.content-post-date{
+  margin-left: 1rem;
+  margin-right: 1rem;
+  padding-right: .5rem;
+  border-right: 1px solid rgb(122, 122, 122);
+  color: rgb(100, 100, 100);
+  font-size: .8rem;
+  align-self: center;
+}
+.content-post-user{
+  color: rgb(0, 0, 0);
+  margin-left: -.5rem;
+}
+.content-description{
+  text-align: justify;
+  line-height: 2rem;
+  font-size: 1.3rem;
+  font-style: oblique;
+  margin: 2rem auto;
+  padding: 1rem;
+  color: rgb(99, 99, 99);
+}
+.content-post-info, .content-description {
+  min-width: 1200px;
+  max-width: 1200px;
+  }

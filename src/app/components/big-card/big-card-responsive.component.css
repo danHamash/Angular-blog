@@ -1,0 +1,37 @@
+@media screen and (min-Width:320px) and (max-width:720px){
+  .big-card-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .big-card-main{
+    margin-bottom: 1rem;
+  }
+  .big-card-img > img{
+    width: 300px;
+    height: 300px;
+    min-width: 200px;
+    margin: .5rem;
+  }
+  .big-card-description p{
+    font-size: .7rem;
+    width: 200px;
+    margin: 0;
+  }
+  .big-card-description{
+    margin: 0;
+  }
+  .big-card-title{
+    font-size: 1.5rem;
+    width: 200px;
+  }
+  .big-card-date,
+  .big-card-user,
+  .big-card-title,
+  .big-card-description p{
+    margin: .2rem 0 0 .5rem;
+    text-align: center;
+  }
+}
+
+
