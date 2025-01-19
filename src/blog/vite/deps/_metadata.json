@@ -1,0 +1,34 @@
+{
+  "hash": "7f091191",
+  "configHash": "ef32d225",
+  "lockfileHash": "66cf4742",
+  "browserHash": "29dc7d5c",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "919a0fd7",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "292c0dad",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "e4fa084f",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-PICPI3V2": {
+      "file": "chunk-PICPI3V2.js"
+    },
+    "chunk-COCS37L2": {
+      "file": "chunk-COCS37L2.js"
+    }
+  }
+}
